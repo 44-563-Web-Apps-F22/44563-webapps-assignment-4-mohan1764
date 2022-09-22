@@ -1,0 +1,145 @@
+.direction {
+    color: black;
+    font-size: medium;
+    background-color:aliceblue;
+    
+     font-family: 'Courier New', Courier, monospace;
+   }
+   .direction:hover {
+     color: red;
+     background-color: lavender;
+   }
+   .name {
+    color: black;
+     font-size: medium;
+     font-family: 'Courier New', Courier, monospace;
+   }
+   .CHORUS {
+     color: black;
+      font-size: medium;
+      font-family: 'Courier New', Courier, monospace;
+    }
+    .REC {
+     color: green;
+      font-size: medium;
+      font-family: 'Courier New', Courier, monospace;
+    }
+    .SAI {
+     color: blue;
+      font-size: medium;
+      font-family: 'Courier New', Courier, monospace;
+    }
+    .REL {
+     color: violet;
+      font-size: medium;
+      font-family: 'Courier New', Courier, monospace;
+    }
+    .SON {
+     color:pink;
+      font-size: medium;
+      font-family: 'Courier New', Courier, monospace;
+    }
+    .CAP {
+     color: red;
+      font-size: medium;
+      font-family: 'Courier New', Courier, monospace;
+    }
+    .song{
+     color:black;
+      font-size: medium;
+      font-family: 'Courier New', Courier, monospace;
+    }
+    .speech {
+     color: black;
+      font-size: medium;
+      font-family: 'Courier New', Courier, monospace;
+    }
+    #singers th {
+
+        padding-top: 12px;
+    
+        padding-bottom: 12px;
+    
+        text-align: left;
+    
+        background-color:red;
+    
+        color: white;
+    
+      }
+    
+    
+    
+      #singers td, #singers th {
+    
+        border: 1px solid #ddd;
+    
+        padding: 8px;
+    
+      }
+    
+      table, th, td {
+    
+        border: 1px solid black;
+    
+      }
+    
+      .name:hover{
+    
+        color: darkblue;
+    
+        background-color: yellow;
+    
+       
+    
+    }
+    
+    ul.navbar-horizontal {
+    
+       
+    
+        list-style-type: none;
+    
+        margin: 0;
+    
+        padding: 0;
+    
+        }
+    
+        ul.navbar-horizontal li {
+    
+        float:left;
+    
+        color:#000;
+    
+        background-color:blue
+    
+        }
+    
+        ul.navbar-horizontal a {
+    
+        display:block;
+    
+        padding: 20px;
+    
+        color: violet;
+    
+        }
+    
+        ul.navbar-horizontal a:hover {
+    
+        background-color: #555;
+    
+        color:white;
+    
+        }
+    
+        img {
+    
+            width:300;
+    
+            height:300;
+    
+          }
+    
+       
